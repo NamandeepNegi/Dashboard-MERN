@@ -1,7 +1,7 @@
 # This is Full Stack MERN Dashboard application
 
-[live link](https://dashboard-frontend-f885.onrender.com/dashboard)
-https://dashboard-frontend-f885.onrender.com/dashboard
+[live link](https://dashboard-frontend-f885.onrender.com/)
+https://dashboard-frontend-f885.onrender.com/
 
 NODE_VERSION = 18.12.1
 
