@@ -21,3 +21,7 @@ npm start
 ```
 
 # made by NAMANDEEP NEGI
+
+
+## this is the first look of website
+![Front Look](dashboard1.png)
